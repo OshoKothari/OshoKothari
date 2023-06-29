@@ -1,12 +1,8 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Osho Kothari</h1>
-<h3 align="center">I am good at initiating new ideas and also in driving those ideas in exploring new technologies and applying them to real-world problems.</h3>
+<h3 align="center">Initiating new ideas and driving those ideas in exploring new technologies and applying them to real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshokothari&label=Profile%20views&color=0e75b6&style=flat" alt="oshokothari" /> </p>
-
-<p align="left"> <a href="https://twitter.com/oshokothari" target="blank"><img src="https://img.shields.io/twitter/follow/oshokothari?logo=twitter&style=for-the-badge" alt="oshokothari" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -33,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshokothari&show_icons=true&locale=en" alt="oshokothari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshokothari&" alt="oshokothari" /></p>
+
