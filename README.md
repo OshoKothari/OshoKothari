@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter, Web Development and Many More**
 
-- 📫 How to reach me **contact.oshokothari@gmail.com**
+- 📫 How to reach me **kothariosho7@gmail.com**
 
 - ⚡ Fun fact **The more you learn the more you grow 😊**
 
