@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osho Kothari</h1>
 <h3 align="center"> Engineer-in-training fueled by curiosity, creativity, and a desire for impact. </h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzODE3NjAsIm5iZiI6MTcxMjM4MTQ2MCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA2VDA1MzEwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0MWRmMWNhZjZlOGZjZTI5NWRlZDkwMzEwODYzZWIwZTExYThmNGIyZWM0MTM4NGE3ZDc3MjVhNjA4OGU1MTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3AR3mfZyQGCGUv_2cBeo3fbGAyF7bIL1lP--W90BHlw">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshokothari&label=Profile%20views&color=0e75b6&style=flat" alt="oshokothari" /> </p>
 
