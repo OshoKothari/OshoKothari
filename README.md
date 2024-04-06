@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osho Kothari</h1>
 <h3 align="center"> Engineer-in-training fueled by curiosity, creativity, and a desire for impact. </h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshokothari&label=Profile%20views&color=0e75b6&style=flat" alt="oshokothari" /> </p>
 
